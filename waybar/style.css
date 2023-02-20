@@ -2,12 +2,14 @@
     border: none;
     border-radius: 0;
     font-family: "Jetbrains Mono";
-    font-size: 13px;
+    font-size: 14px;
+    font-weight: bold;
     min-height: 0;
 }
 
 window#waybar {
-    background: rgba(255, 255, 255, 0.2);
+    /*background: rgba(255, 255, 255, 0.2);*/
+    background: transparent;
     color: white;
 }
 
